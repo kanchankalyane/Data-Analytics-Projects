@@ -13,4 +13,4 @@ This project analyzes student performance using Power BI based on study habits, 
 - Family background affects performance
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
