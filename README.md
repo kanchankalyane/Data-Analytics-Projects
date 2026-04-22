@@ -1,8 +1,8 @@
-# 📊 Student Performance Dashboard
+# 📊 Student Performance Dashboard (Power BI Project)
 
 ## 📌 Overview
-This project analyzes student performance using Power BI based on study habits, sleep, and background factors.
-
+Analyzed student performance using Power BI.
+Built interactive dashboards to identify patterns in study habits, sleep, and academic scores.
 ## 🛠️ Tools Used
 - Power BI
 - Excel
@@ -11,6 +11,11 @@ This project analyzes student performance using Power BI based on study habits, 
 - Students who study more score higher
 - Sleep has moderate impact
 - Family background affects performance
+
+## 🚀 Features
+- Interactive dashboard
+- Data visualization using Power BI
+- Insights on student behavior
 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png.png)
